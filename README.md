@@ -1,3 +1,3 @@
 # Introduccion-a-Redux-Toolkit
 
-En esta oportunidad se vera la nueva forma de trabajo con Redux-Toolkit
+En esta oportunidad se verá la nueva forma de trabajo de Redux-Toolkit y el desarrollo de la web app utilizando material UI
